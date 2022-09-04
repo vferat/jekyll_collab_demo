@@ -6,8 +6,8 @@ description: "Index"
 permalink: /
 ---
 
-#Home
+# Home
 
 
 {% glossary GFP %}
-{% twitter https://twitter.com/ferat_victor maxwidth=500 limit=12 %}
+{% twitter https://twitter.com/ferat_victor maxwidth=500 limit=4 %}

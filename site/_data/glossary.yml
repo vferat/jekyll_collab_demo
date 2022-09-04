@@ -1,3 +1,3 @@
 - term: GFP           # Can contain spaces
   definition: Global field power
-  #url: {{ site.baseurl }}{% link docs/gfp.md %}  # Is optional
+  #url: {{ site.baseurl }}{% link docs/gfp.md %}
