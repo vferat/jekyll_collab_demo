@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Continuous Microstates
+title: Bibliography
 nav_order: 3
 ---
 {{ page.title }}
