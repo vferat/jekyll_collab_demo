@@ -26,7 +26,8 @@ theme: just-the-docs
 plugins:
   - jekyll-seo-tag
   - jekyll-glossary_tooltip
-  
+  - jekyll-twitter-plugin
+
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
