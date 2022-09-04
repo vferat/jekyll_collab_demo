@@ -133,3 +133,8 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+## Jekyll scholar
+scholar:
+  style: modern-language-association
+  source: bibliography
