@@ -1,4 +1,4 @@
 - term: GFP
   definition: Global field power
   url: >
-    {{ site.baseurl }}{% link docs/gfp.md %}
+    {{ site.baseurl }}{% link docs/term/gfp.md %}
