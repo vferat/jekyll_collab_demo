@@ -1,0 +1,38 @@
+{"0": {
+    "doc": "Bibliography",
+    "title": "Bibliography",
+    "content": ". | Michel, Christoph M., and Thomas Koenig. “EEG Microstates as a Tool for Studying the Temporal Dynamics of Whole-Brain Neuronal Networks: A Review.” NeuroImage, vol. 180, 2018, pp. 577–93, doi:https://doi.org/10.1016/j.neuroimage.2017.11.062. | . ",
+    "url": "https://vferat.github.io/jekyll_collab_demo/docs/bibliography/",
+    "relUrl": "/docs/bibliography/"
+  },"1": {
+    "doc": "Continuous Microstates",
+    "title": "Continuous Microstates",
+    "content": "Read this review: (Michel and Koenig) CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. | Michel, Christoph M., and Thomas Koenig. “EEG Microstates as a Tool for Studying the Temporal Dynamics of Whole-Brain Neuronal Networks: A Review.” NeuroImage, vol. 180, 2018, pp. 577–93, doi:https://doi.org/10.1016/j.neuroimage.2017.11.062. | . ",
+    "url": "https://vferat.github.io/jekyll_collab_demo/docs/continuous_ms",
+    "relUrl": "/docs/continuous_ms"
+  },"2": {
+    "doc": "ERP Microstates",
+    "title": "ERP Microstates",
+    "content": "CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
+    "url": "https://vferat.github.io/jekyll_collab_demo/docs/erp_ms",
+    "relUrl": "/docs/erp_ms"
+  },"3": {
+    "doc": "GFP",
+    "title": "Global field Power",
+    "content": "Global field power . ",
+    "url": "https://vferat.github.io/jekyll_collab_demo/docs/terms/gfp#global-field-power",
+    "relUrl": "/docs/terms/gfp#global-field-power"
+  },"4": {
+    "doc": "GFP",
+    "title": "GFP",
+    "content": " ",
+    "url": "https://vferat.github.io/jekyll_collab_demo/docs/terms/gfp",
+    "relUrl": "/docs/terms/gfp"
+  },"5": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "GFP Global field power . Tweets by ferat_victor ",
+    "url": "https://vferat.github.io/jekyll_collab_demo/",
+    "relUrl": "/"
+  }
+}
